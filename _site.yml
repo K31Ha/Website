@@ -4,19 +4,7 @@ navbar:
   left:
     - text: "ホーム"
       href: index.html
-    - text: "趣味"
-      href: shumi.html
-  right:
-    - text: "jsのテスト"
-      href: js_test.html
-    - text: "Rでhtml生成"
-      href: html_gene.html
-    - text: "タグチェック用"
-      href: id_class_check.html
-    - text: "gridレイアウト用"
-      href: grid_test.html
-    - text: "cssチェック用"
-      href: css_test.html
+
 output:
   html_document:
     theme: cosmo
